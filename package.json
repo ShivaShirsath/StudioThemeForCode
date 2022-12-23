@@ -1,0 +1,35 @@
+{
+  "name": "studio-theme",
+  "displayName": "Studio Theme",
+  "description": "Studio's Darcula themes for VSCode",
+  "publisher": "ShivaShirsath",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShivaShirsath/StudioThemeForCode"
+  },
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Studio Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/studio-dark.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "studio",
+    "pycharm",
+    "darcula",
+    "jetbrains"
+  ]
+}
