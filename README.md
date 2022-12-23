@@ -2,7 +2,7 @@
 
 + Installation
   1. Navigate to local extension folder using `git` bash
-  2. Clone this repository using this command
+  2. Clone this repository using following command
      ```git
      git clone https://github.com/ShivaShirsath/StudioThemeForCode.git
      ```
